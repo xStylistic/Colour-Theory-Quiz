@@ -918,7 +918,6 @@ public class QuizGame extends javax.swing.JFrame {
     private javax.swing.JButton btnRestart;
     private javax.swing.JButton btnSubmit;
     private javax.swing.JPanel headerPanel;
-    private javax.swing.JTextField jTextField3;
     private javax.swing.JLabel lblCorrectAns;
     private javax.swing.JLabel lblCorrectMark;
     private javax.swing.JLabel lblHeader;
